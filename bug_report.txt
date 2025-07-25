@@ -1,0 +1,8 @@
+Summary: [bug report short description]
+Environment: [on what env it reproduced]
+Steps to reproduce: [correct description of actions, to reproduce an error]
+Actual result: [what actually happened]
+Expected result: [what should happened]
+Severity: [how critical bug is to using the system: Blocker, Critical, Major, Minor, Trivial]
+Priority: [how fast issue should be fixed: High, Medium, Low]
+Attachments: [screenshots, logs, video, etc.]
